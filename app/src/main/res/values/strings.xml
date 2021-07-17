@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Banking System</string>
+    <string name="banking_system_app">Banking System App</string>
+    <string name="all_users">All Users</string>
+    <string name="all_transactions">All Transactions</string>
+    <string name="Welcome">Welcome to Bank</string>
+    <string name="all_">Account Holder</string>
+    <string name="all_transacti">Recent Transactions</string>
+</resources>
